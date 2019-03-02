@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: account-web
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: btkawaiht
+Implementation-Vendor-Id: com.example.account
+Build-Jdk: 1.8.0_172
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: TERASOLUNA Framework Team
+
